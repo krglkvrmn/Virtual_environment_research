@@ -1,2 +1,0 @@
-line_length = 16
-"loooooooooooooooooooooooooooooong liiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiine"
